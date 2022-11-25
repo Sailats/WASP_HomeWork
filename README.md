@@ -9,7 +9,7 @@
 ------------------|--------|--------
 Автопарк          | 🔴    | <a href="https://github.com/Sailats/WASP_HomeWork/tree/main/dzClass">Перейти</a>
 Массивы           | 🟡    | <a href="https://github.com/Sailats/wasp_homework2">Перейти</a>
-1 - 2 дз          | 🟢    | <a href="hhttps://github.com/Sailats/ForWasp/tree/main/test">Перейти</a>
+1 - 2 дз          | 🟢    | <a href="https://github.com/Sailats/ForWasp/tree/main/test">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
