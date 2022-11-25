@@ -1,0 +1,15 @@
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/dzClass
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/dzClass.deps.json
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/dzClass.runtimeconfig.json
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/dzClass.dll
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/ref/dzClass.dll
+/Users/sailats/Documents/WASP/VScode/dzClass/bin/Debug/net6.0/dzClass.pdb
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.csproj.AssemblyReference.cache
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.AssemblyInfoInputs.cache
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.AssemblyInfo.cs
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.csproj.CoreCompileInputs.cache
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.dll
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/ref/dzClass.dll
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.pdb
+/Users/sailats/Documents/WASP/VScode/dzClass/obj/Debug/net6.0/dzClass.genruntimeconfig.cache
